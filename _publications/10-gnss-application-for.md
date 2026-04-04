@@ -2,7 +2,7 @@
 title: "GNSS application for space weather operation in Taiwan"
 collection: publications
 category: Conference presentation
-permalink: /publication/2025/1/10-
+permalink: /publication/2025/1/10-gnss-application-for.md
 date: 2025/1/10
 venue: 'SPIE 13268, Advancement on GNSS-based Measurements and Applications, 132680D'
 paperurl: 'https://doi.org/10.1117/12.3042719'
